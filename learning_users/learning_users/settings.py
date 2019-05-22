@@ -28,7 +28,7 @@ SECRET_KEY = '#lxb(-z$*x2hd2i9i&(8p3q_=im&mz-4)x13ry-awqbo3%+$xu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['catanah.pythonanywhere.com',]
 
 
 # Application definition
